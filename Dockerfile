@@ -16,7 +16,7 @@ RUN cd /app/ && pip3 install -r requirements.txt
 WORKDIR /app 
 
 # cmd to launch app when container is run
-CMD streamlit run streamlit.py
+CMD streamlit run app.py
 
 # streamlit-specific commands for config
 ENV LC_ALL=C.UTF-8
