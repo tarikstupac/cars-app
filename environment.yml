@@ -92,6 +92,7 @@ dependencies:
     - nest-asyncio==1.4.3
     - notebook==6.1.5
     - numpy==1.19.0
+    - opencv-python==4.5.1.48
     - packaging==20.7
     - pandas==1.1.5
     - pandocfilters==1.4.3
@@ -148,4 +149,5 @@ dependencies:
     - widgetsnbextension==3.5.1
     - wwf==0.0.4
     - yarl==1.6.3
-prefix: C:\Users\Morningstar\anaconda3\envs\carsapp
+prefix: C:\Users\Morningstar\Anaconda3\envs\carsapp
+
